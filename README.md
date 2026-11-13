@@ -3,7 +3,7 @@
 Carte PCB ESP32 avec module SIM7080G, relais et capteur ultrason, pour surveiller
 et piloter une porte de garage par SMS.
 
-Auteur : Ryan Kraus, https://ryan-dodo.be/Projet1.html
+Auteur : Ryan, https://ryan-dodo.be/Projet1.html
 
 ## Description
 
